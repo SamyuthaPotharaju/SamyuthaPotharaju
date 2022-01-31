@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamyuthaPotharaju
-- 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning about Data Structures & Algorithms and Computer Architecture
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering and Security
+- 🌱 I’m currently learning about Systems Programming and cloud development
 - 📫 How to reach me: spothara@purdue.edu
 
 <!---
