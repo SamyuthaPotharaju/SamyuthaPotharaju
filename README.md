@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamyuthaPotharaju
 - 👀 I’m interested in Software Engineering and Security
-- 🌱 I’m currently learning about Systems Programming and cloud development
+- 🌱 I’m currently learning about software security and cloud development
 - 📫 How to reach me: spothara@purdue.edu
 
 <!---
