@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamyuthaPotharaju
 - 👀 I’m interested in software security and full-stack development
 - 🌱 I’m currently learning about AI/ML and cloud development
-- 📫 How to reach me: spothara@purdue.edu
+- 📫 How to reach me: linkedin.com/in/samyuthapotharaju
 
 <!---
 SamyuthaPotharaju/SamyuthaPotharaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
